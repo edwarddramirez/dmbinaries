@@ -133,7 +133,7 @@ R = p_max   # maximum impact parameter (pc)
 # ------------------------------------------------------
 ## generate encounter samples
 
-def v_rel_sampler(vc,vesc):
+def v_rel_sampler(vc,vesc,N_enc):
     ## relative velocity sampler for truncated MB distributions
     ### note, divide by sqrt(2) because maxwell.rvs automatically has a 2 in denominator of exponential
     ### divide by sqrt(2) one more time since v_c is the MACHO-MACHO relative velocity dispersion 
