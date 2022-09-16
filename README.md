@@ -11,7 +11,7 @@ Please read the *README.md* file within each file for content information. We st
 - Directory: evolution
   - Purpose: Simulate the evolution of binaries subject to tidal encounters with extended subhalos
 ### 3. Limits on Subhalos
-- Directory: stats
+- Directory: statistics
   - Purpose: Set limits on subhalos given the sample of binaries and the results of the binary evolution simulations
 ### 4. Supplementary Material
 - Directory: supplement
