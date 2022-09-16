@@ -7,14 +7,14 @@ This file contains relevant discussion, derivation, etc. to better understand so
     - Power Law with Truncation Radius 
     - NFW Profile
 ### 2. Orbital State Evolution Computations
-* Main Directory: 
+* Main Directory: orbital_params_calculation
 * Documents: 
 	- Summary Table of Monte Carlo Simulations
 	- orbital_parameters_ function computations
 ### 3. Relative Velocity Profile Between Binaries and Subhalos
 * Main Directory: relative_velocity_dist
 * Documents:
-	- derivation_before_mathematic.pdf for integral formula of the relative velocity distribution
+	- derivation_before_mathematica.pdf for integral formula of the relative velocity distribution
 	- relative_velocity_rigorous.nb for further manipulations in mathematica
 ### 4. $p_{\rm max}$ Derivation
 * Main Directory: pmax
