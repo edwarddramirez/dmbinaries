@@ -1,5 +1,5 @@
 # Supplementary Material
-This file contains relevant discussion, derivation, etc. to better understand some of the things to develop our code. 
+This file contains relevant discussion, derivation, etc. to better understand some of the things we used to develop our code. 
 
 ### 1. Structure Function Derivations
 * Main Directory: u_fcts
@@ -11,7 +11,15 @@ This file contains relevant discussion, derivation, etc. to better understand so
 * Documents: 
 	- Summary Table of Monte Carlo Simulations
 	- orbital_parameters_ function computations
-### 3. Relative Velocity Profile Between 
-### 4. 
+### 3. Relative Velocity Profile Between Binaries and Subhalos
+* Main Directory: relative_velocity_dist
+* Documents:
+	- derivation_before_mathematic.pdf for integral formula of the relative velocity distribution
+	- relative_velocity_rigorous.nb for further manipulations in mathematica
+### 4. $p_{\rm max} Derivation
+* Main Directory: pmax
+* Document:
+	- pmax_deriv.pdf
+
 
 
