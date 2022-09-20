@@ -1,5 +1,5 @@
 # dmbinaries
-This repository contains the code used to produce the results shown in (INSERT PAPER HERE). It is meant to act as a supplement focusing more on the actual structure of the code. Through our tutorial notebooks, we hope to help others in either better understanding our results or perform their own set of simulations for various purposes such as: setting their own constraints on subhalos, simulate binary evolution for some other purpose, or improve this code to set more robust limits. 
+This repository contains the code used to produce the results shown in [arXiv:2209.08100](https://arxiv.org/abs/2209.08100). It is meant to act as a supplement focusing more on the actual structure of the code. Through our tutorial notebooks, we hope to help others in either better understanding our results or perform their own set of simulations for various purposes such as: setting their own constraints on subhalos, simulate binary evolution for some other purpose, or improve this code to set more robust limits. 
 
 Please read the *README.md* file within each file for content information. We strongly encourage readers to read the paper before working with the code.
 
