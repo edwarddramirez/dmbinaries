@@ -1,5 +1,5 @@
 # Statistics
-In this file, we have a Jupyter notebook showing how we set limits on subhalos. It is our implementation of the technique discussed in Sec. IV of the (INSERT PAPER NAME). 
+In this file, we have a Jupyter notebook showing how we set limits on subhalos. It is our implementation of the technique discussed in Sec. IV of the [arXiv:2209.08100](https://arxiv.org/abs/2209.08100). 
 
 Special Requirements:
 1. Scattering Matrix: 
