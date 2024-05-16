@@ -1,4 +1,4 @@
-[![License: MIT](https://img.shields.io/badge/License-MIT-brightgreen.svg)](https://opensource.org/license/mit) ![Python](https://img.shields.io/badge/python-3.9.18-blue.svg) ![Repo Size](https://img.shields.io/github/repo-size/edwarddramirez/dmbinaries) 
+[![arXiv](https://img.shields.io/badge/arXiv-2209.08100-b31b1b.svg)](https://arxiv.org/abs/2209.08100) [![License: MIT](https://img.shields.io/badge/License-MIT-brightgreen.svg)](https://opensource.org/license/mit) ![Python](https://img.shields.io/badge/python-3.9.18-blue.svg) ![Repo Size](https://img.shields.io/github/repo-size/edwarddramirez/dmbinaries) 
 
 # dmbinaries
 This repository contains the code used to produce the results shown in [arXiv:2209.08100](https://arxiv.org/abs/2209.08100). It is meant to act as a supplement focusing more on the actual structure of the code. Through our tutorial notebooks, we hope to help others in either better understanding our results or perform their own set of simulations for various purposes such as: setting their own constraints on subhalos, simulate binary evolution for some other purpose, or improve this code to set more robust limits. 
