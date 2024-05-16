@@ -1,0 +1,14 @@
+name: dmb
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - ipykernel=6.20.2
+  - ipython_genutils=0.2.0
+  - jupyter=1.0.0
+  - jupyter_client=6.1.12
+  - matplotlib-inline=0.1.2
+  - pip=21.2.4
+  - python=3.9.18
+  - pip:
+    - -r requirements.txt

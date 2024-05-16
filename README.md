@@ -1,7 +1,16 @@
+[![License: MIT](https://img.shields.io/badge/License-MIT-brightgreen.svg)](https://opensource.org/license/mit) ![Python](https://img.shields.io/badge/python-3.9.16-blue.svg) ![Repo Size](https://img.shields.io/github/repo-size/edwarddramirez/allsky-point-source-detection) 
+
 # dmbinaries
 This repository contains the code used to produce the results shown in [arXiv:2209.08100](https://arxiv.org/abs/2209.08100). It is meant to act as a supplement focusing more on the actual structure of the code. Through our tutorial notebooks, we hope to help others in either better understanding our results or perform their own set of simulations for various purposes such as: setting their own constraints on subhalos, simulate binary evolution for some other purpose, or improve this code to set more robust limits. 
 
 Please read the *README.md* file within each file for content information. We strongly encourage readers to read the paper before working with the code.
+
+# Installation
+Run the `environment.yml` file by running the following command on the main repo directory:
+```
+conda env create
+```
+The installation works for `conda==22.9.0`. 
 
 ## Directory Structure
 ### 1. Data

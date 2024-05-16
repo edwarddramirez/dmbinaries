@@ -1,0 +1,11 @@
+astropy==5.1.1
+corner==2.2.2
+dustmaps==1.0.13
+emcee==2.2.1
+ipython==8.12.3
+isochrones==2.1
+matplotlib==3.6.2
+numpy==1.23.4
+pandas==2.2.2
+pyia==1.4.1
+scipy==1.9.3
